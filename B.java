@@ -1,9 +1,12 @@
 class B
 {
      int a=21;
-     public void abc()
-{
+     int b=11;
+     public void abc(){
       System.out.println("Hello");
+      System.out.println("Good Morning");
 }
 
 }
+
+
